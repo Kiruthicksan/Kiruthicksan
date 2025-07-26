@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1>Hi , I'm Kiruthicksan 👩🏾‍💻 </h1>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png" alt="Kiruthicksan Banner" width="100%" />
+
+
+
 
 <!--
 **Kiruthicksan/Kiruthicksan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
